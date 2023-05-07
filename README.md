@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm Eric. 👋🏿
+
+## I hate coding. 
+*I don't really feel like doing this right now.*
 
 <!--
 **ericbrowley/ericbrowley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
