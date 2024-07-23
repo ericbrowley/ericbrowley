@@ -1,6 +1,5 @@
 ### Hello, I'm Eric. 👋🏿
 
-## I hate coding. 
 *I don't really feel like doing this right now.*
 
 <!--
